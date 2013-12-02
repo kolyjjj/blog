@@ -1,0 +1,36 @@
+LOG:  database system was shut down at 2013-12-02 18:22:33 CST
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "kwli" does not exist
+FATAL:  database "tw" does not exist
+FATAL:  database "tw" does not exist
+FATAL:  database "postgre" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+FATAL:  role "myapp" does not exist
+ERROR:  syntax error at or near "'myapp'" at character 13
+STATEMENT:  CREATE ROLE 'myapp' PASSWORD 'myapp' 
+	;
+FATAL:  role "myapp" is not permitted to log in
+FATAL:  role "myapp" is not permitted to log in
+ERROR:  syntax error at or near "quit" at character 1
+STATEMENT:  quit
+	;
+FATAL:  database "tw" does not exist
